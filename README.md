@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Full-stack developer
-- CEO & Founder of [link](https://www.sharellock.com)
+- CEO & Founder of [Sharellock](https://www.sharellock.com)
 - Currently studying software engineering at ALX SE
 
 <br><br>
@@ -80,7 +80,7 @@
 
 <li>
 <a href="https://linkedin.com/in/mohammed-bahaj-54ab98195" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  mohammed-bahaj-54ab98195-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  mohammedbahaj54ab98195-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
